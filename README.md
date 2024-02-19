@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+This account is only used to contribute to projects and is **not where I actually do my development**.
+
+If you wish to contact me about a project I am working on, you can view my **contact information** [here](https://jfronny.gitlab.io/contact.html).
+
+You can view a list of my projects on my [Gitea instance](https://git.frohnmeyer-wds.de/explore/repos) and contribute to them either [here](https://gitlab.com/users/JFronny/projects) or [here](https://gitlab.com/jfmods) (depending on what the project is).
 
 <!--
 **JFronny/JFronny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
